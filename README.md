@@ -28,7 +28,7 @@ The Community Management team is responsible for:
 To contribute to the success of CLENT Africa’s community, follow these steps:
 
 1. **Join Our Online Community**
-   - We manage an online community platform where members can engage in discussions, share resources, and collaborate on projects. Ensure you’re active and participate in our discussions across various channels (e.g., Discord, Facebook Groups, LinkedIn).
+   - We manage our discord online [community](https://discord.gg/u5yWdGNmyR) where members can engage in discussions, share resources, and collaborate on projects. Ensure you’re active and participate in our discussions across various channels (e.g., Discord, Facebook Groups, LinkedIn).
 
 2. **Familiarize Yourself with Our Community Guidelines**
    - Before engaging, please review our [Community Guidelines](community-guidelines.md) to ensure a safe, respectful, and inclusive environment.
